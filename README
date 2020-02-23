@@ -1,3 +1,13 @@
+I am not the owner of this code.
+it a Clone copy of version 6.9.0.31
+I do encorage to fork this code and make xming-reloded. 
+Can you help create a cmake file and compile it on windows?
+
+Taken from sourceforge.net
+https://sourceforge.net/projects/xming/files/Xming-source/
+You can download binaries from:
+https://sourceforge.net/projects/xming/files/Xming/6.9.0.31/
+
                        README for X11R6.9 and X11R7.0
 
                             The X.Org Foundation
